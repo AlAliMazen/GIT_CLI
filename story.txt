@@ -1,0 +1,1 @@
+This sentence is about using echo for both creating content in a new file as well as creating that file
